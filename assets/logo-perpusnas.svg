@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 112" role="img" aria-labelledby="title desc">
+  <title id="title">Logo EXPLORE Perpusnas</title>
+  <desc id="desc">Mark buku dan menara bergaya untuk game edukatif EXPLORE.</desc>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#34d399"/></linearGradient></defs>
+  <rect x="4" y="4" width="104" height="104" rx="28" fill="#0b1930" stroke="#5eead4" stroke-width="4"/>
+  <path d="M29 80V30h23c14 0 22 7 22 18s-8 18-22 18H42v14H29Zm13-25h10c6 0 10-2 10-7s-4-7-10-7H42v14Z" fill="url(#g)"/>
+  <path d="M79 80V30h12v50H79Z" fill="#fbbf24"/><path d="M83 24h8l-4-10-4 10Z" fill="#fbbf24"/>
+  <text x="126" y="52" fill="#e5f7ff" font-family="Arial,sans-serif" font-size="28" font-weight="800" letter-spacing="2">PERPUSNAS</text>
+  <text x="128" y="80" fill="#7dd3fc" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">EXPLORE · 24 LANTAI</text>
+</svg>

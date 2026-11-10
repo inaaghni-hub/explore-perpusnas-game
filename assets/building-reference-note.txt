@@ -1,0 +1,1 @@
+Aset lokal yang ditemukan sebelum pembangunan: /home/aghni/.hermes/cache/images/img_90304f74b2d9.jpg. Setelah inspeksi visual, file tersebut bukan gedung atau logo Perpusnas (foto komponen elektronik), sehingga tidak diintegrasikan sebagai aset bangunan. Game memakai blueprint menara 24 lantai yang digambar via CSS/SVG inline.
